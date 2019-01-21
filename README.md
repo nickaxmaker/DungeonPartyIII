@@ -17,4 +17,4 @@ Of these goals, I would say that all of them were accomplished in this project. 
 
 ### Disclaimer
 
-This project was forked from another account of mine, due to this being the final resting place of finishing projects, whereas the other is a place where I generally put random unfinished ideas.
+This project was forked from another account of mine, due to this being the final resting place of finished projects, whereas the other is a place where I generally put random unfinished ideas.
